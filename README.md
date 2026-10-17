@@ -2,7 +2,7 @@
 
 kidefarapca.com'daki 10. sınıf sayfa çevirmeli ders kitabının sayfa resimleri, sesleri
 ve videoları. Ana site GitHub Pages'in 1 GB sınırında, 9. sınıfın materyal deposu
-(kidefarapca-materyal) da dolu olduğu için 10. sınıf kendi deposunda (her deponun
+(kidefarapca-materyal-9) da dolu olduğu için 10. sınıf kendi deposunda (her deponun
 kendi 1 GB'ı var). Kitabın kabuğu (index.html, veri.js) ana sitede:
 `kitap/10-sinif-2026-2027/`; dosyaları `https://gdmrbg7541.github.io/kidefarapca-materyal-10/`
 adresinden yükler.
